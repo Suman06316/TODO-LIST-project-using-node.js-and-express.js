@@ -1,6 +1,6 @@
 A simple full-stack Todo List application built using Node.js, Express.js, and MySQL. This project demonstrates CRUD operations, RESTful APIs, and database connectivity, making it ideal for beginners learning backend and full-stack development. Add new todo items View all todo items Store todos in a MySQL database REST API built with Express.js Simple frontend to interact with the backend Clean project structure 
 Tech Stack Frontend HTML CSS JavaScript (Vanilla) Backend Node.js Express.js Database MySQL Project Structure TODO-LIST-project-using-node.js-and-express.js/ index.html
-# Frontend UIserver.js # Backend server ├── README.md # 
+ Frontend UIserver.js  Backend server  
 Project documentation Prerequisites Make sure you have the following installed: Node.js (v14 or higher) MySQL npm (comes with Node.js)  Database Setup Open MySQL and create a database: CREATE DATABASE todo_app; Use the database: USE todo_app;
 
 
